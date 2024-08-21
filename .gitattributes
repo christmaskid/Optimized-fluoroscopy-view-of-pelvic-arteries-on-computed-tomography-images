@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+models/unet_dense_30_v3_suf_best.hdf5 filter=lfs diff=lfs merge=lfs -text
+models/unet_dense_30_v3_suf_local_best.hdf5 filter=lfs diff=lfs merge=lfs -text
+
