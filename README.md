@@ -1,6 +1,6 @@
 ### Optimized fluoroscopy view of pelvic arteries on computed tomography images
 
-Code for training model on pelvic CTA images using **dense U-Net** architecture based on package **MIScnn** (https://github.com/frankkramer-lab/MIScnn/) .
+Code for training the upstream segmentation and centerlin extraction model on pelvic CTA images using **dense U-Net** architecture based on package **MIScnn** (https://github.com/frankkramer-lab/MIScnn/) .
 
 ## Generating training data
 
